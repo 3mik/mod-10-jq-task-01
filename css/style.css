@@ -1,0 +1,18 @@
+.row {
+  padding-bottom: 10px;
+}
+
+p {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.badge {
+  font-size: 40px;
+}
+
+.btn {
+  display: block;
+  margin: 20px auto 0;
+}
+/*# sourceMappingURL=style.css.map */
